@@ -10,3 +10,4 @@
 
 * [Exercism answers](/exercism.md)
 
+* [Notes from the class](/diary.md)
