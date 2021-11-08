@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/ico" 
+      href="{{ "/assets/images/favicon.ico"  | absolute_url }}">
 # Sharon home page
 
 ## links to all my markdown file
