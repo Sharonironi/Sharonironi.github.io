@@ -1,4 +1,4 @@
-# Notes of the course
+# What is GitHub
 
 ## In a Markdown file
 
