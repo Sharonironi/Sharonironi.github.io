@@ -19,3 +19,7 @@
 ## links to all my HTML pages
 
 * [HTML index](https://sharonironi.github.io/web/)
+
+I like animals so here is a picture of a cute dog:
+
+![a cute dog](dog.jpg)
